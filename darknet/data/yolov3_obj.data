@@ -1,5 +1,5 @@
 classes=1
-train=../yolov3/data/train2017.txt
-valid=../yolov3/val2017.txt
-names=../yolov3/data/coco.names
+train=../data/train2017.txt
+valid=../data/val2017.txt
+names=../data/shrimp.names
 backup=backup
