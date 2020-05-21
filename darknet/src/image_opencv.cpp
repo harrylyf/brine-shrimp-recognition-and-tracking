@@ -8,6 +8,7 @@
 using namespace cv;
 
 extern "C" {
+
 IplImage *image_to_ipl(image im)
 {
     int x,y,c;
