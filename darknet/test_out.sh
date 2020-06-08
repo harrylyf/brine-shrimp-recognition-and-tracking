@@ -13,4 +13,4 @@
 module add cuda/10.1
 make
 
-./darknet detect data/yolov3_obj.data cfg/yolov3_obj.cfg backup/yolov3_obj_final.weights test_img/test_img_00000221.jpg -out out1
+./darknet detect cfg/yolov3_obj.cfg backup/yolov3_obj_final.weights test_img/test_img_00000371.jpg -out myfile
