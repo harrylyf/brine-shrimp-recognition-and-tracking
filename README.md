@@ -3,6 +3,9 @@
 Project for Miller Lab at UNC-CH
 Yufan Liu
 
+## Model Set Up
+The model cfg file is designed and set up for 1 class (shrimp) with 9 nums.
+
 ## Usage
 
 ```
@@ -10,7 +13,6 @@ git clone https://github.com/harrylyf/brine-shrimp-recognition-and-tracking
 cd brine-shrimp-recognition-and-tracking
 cd darknet
 make
-
 ```
 
 - Detection
